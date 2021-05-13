@@ -6,7 +6,7 @@ Feladat:
 - az első oldal neve index.html legyen
 - index.html oldal tartalma (szöveg, elrendezés, grafika)
 - index.html oldal kinézete (elrendezés. színek, részei)
-- 2. oldalak elkészítése
+- "2." oldalak elkészítése
 
 - bootstrap használata
 - az ábrák saját készítésűek legyenek
