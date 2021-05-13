@@ -2,6 +2,7 @@
 Geometriai számítások 2021. május
 minta:
 https://www.calculat.org/hu/terulet-kerulet/
+
 Feladat:
 - az első oldal neve index.html legyen
 - index.html oldal tartalma (szöveg, elrendezés, grafika)
